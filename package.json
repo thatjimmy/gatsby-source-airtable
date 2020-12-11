@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
-    "airtable": "^0.8.0",
+    "airtable": "^0.10.0",
     "bluebird": "^3.5.4",
     "mime": "^2.4.4"
   },
